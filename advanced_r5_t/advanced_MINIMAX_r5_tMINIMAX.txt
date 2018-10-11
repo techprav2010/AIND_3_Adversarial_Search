@@ -1,0 +1,2 @@
+python run_match.py  --opponent MINIMAX -r 5 -l advanced_r5_t/advanced_MINIMAX_r5_tMINIMAX.txt -t MINIMAX 
+

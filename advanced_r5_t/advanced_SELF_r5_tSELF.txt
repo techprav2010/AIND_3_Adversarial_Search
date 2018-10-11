@@ -1,0 +1,2 @@
+python run_match.py  --opponent SELF -r 5 -l advanced_r5_t/advanced_SELF_r5_tSELF.txt -t SELF 
+

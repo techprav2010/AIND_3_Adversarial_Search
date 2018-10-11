@@ -1,0 +1,21 @@
+#Adversarial Agent
+- I experimented with
+- Iterative deepening and alaba beta search.
+- Rewarding more the move results if it restrict apponents future liberties
+- Rewarding the closer to the center of the board.
+
+
+What features of the game does your heuristic incorporate, and why do you think those features
+matter in evaluating states during search?
+My heuristic focused on moving to the opponents spot before they had a chance. I based it on the killer
+heuristic but I don’t think I implemented it correctly since the performance did not increase as much as I
+hoped. I think if implemented correctly, it would matter more because I could remove the number of
+moves that the opponent would have since my agent would be doing their moves.
+
+Analyze the search depth your agent achieves using your custom heuristic. Does search speed matter
+more or less than accuracy to the performance of your heuristic?
+See how the increase of time affected the accuracy. Results in command line.
+In my case, the search depth itself would not matter as much as a combination of search depth and
+time. If I increase the search depth and time, it would matter a lot more because my heuristic is focused
+on the overlap of moves between my agent and the opponent rather than the accuracy. When I
+increased the time and depth, my agent had better performance against minimax and random agent.

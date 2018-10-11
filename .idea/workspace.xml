@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af4fda85-89ba-4ca2-badf-7978311fe040" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="log_advanced_d_9.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log_advanced_d_9.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log_advanced_d_12.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log_advanced_d_12.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log_advanced_d_15.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log_advanced_d_15.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="33" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="depth_game_result.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reportsD/depth_game_result.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projects.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.udacity-pa/projects.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="b1.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reportsfull/b1.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="adv_MINIMAX_r100_t150.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reportsfull/adv_MINIMAX_r100_t150.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="game_result.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reportsfull/game_result.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="1" column="6" selection-start-line="1" selection-end-line="1" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>h_score_close_to_walls</find>
+      <find>custom_heuristic</find>
+      <find>decision</find>
+      <find>own_liberties</find>
+      <find>minimax</find>
+      <find>data.pickle</find>
+      <find>pic</find>
+      <find>DebugState</find>
+      <find>self.data</find>
+      <find>queue</find>
+      <find>time_limit</find>
+      <find>(sqrt(centrality)</find>
+      <find>57</find>
+      <find>state</find>
+      <find>time</find>
+      <find>-d</find>
+      <find>20</find>
+      <find>100</find>
+      <find>sum(len(state.liberties(l)) for l in own_liberties)</find>
+      <find>mtdf</find>
+      <find>adv_RANDOM_r100_t750</find>
+      <find>_t</find>
+      <find>Entry</find>
+      <find>build_table</find>
+      <find />
+      <find>custom,RANDOM</find>
+      <find>Final State: Isolation</find>
+      <find>,t</find>
+      <find>ANDOM</find>
+      <find>adv</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self_liberties</replace>
+      <replace>100</replace>
+      <replace>$rounds_def</replace>
+      <replace>adv_RANDOM_r200_t750 adv RANDOM 200 750</replace>
+      <replace>custom_RANDOM,custom</replace>
+      <replace>,</replace>
+      <replace>RANDOM</replace>
+      <replace>custom</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/zz/as3.py" />
+        <option value="$PROJECT_DIR$/bit.java" />
+        <option value="$PROJECT_DIR$/fp/_do/as1/isolation/isolation.py" />
+        <option value="$PROJECT_DIR$/sample_players.py" />
+        <option value="$PROJECT_DIR$/tests/test_my_custom_player.py" />
+        <option value="$PROJECT_DIR$/isolation/__init__.py" />
+        <option value="$PROJECT_DIR$/isolation/isolation.py" />
+        <option value="$PROJECT_DIR$/fp/do/ap1/my_custom_player.py" />
+        <option value="$PROJECT_DIR$/reports3/log2.text" />
+        <option value="$PROJECT_DIR$/test_debug.py" />
+        <option value="$PROJECT_DIR$/run_match.py" />
+        <option value="$PROJECT_DIR$/run_match_base.py" />
+        <option value="$PROJECT_DIR$/run_test.sh" />
+        <option value="$PROJECT_DIR$/run_test2.sh" />
+        <option value="$PROJECT_DIR$/run_test_advanced_100.sh" />
+        <option value="$PROJECT_DIR$/run_test_base2sh" />
+        <option value="$PROJECT_DIR$/my_custom_player_base.py" />
+        <option value="$PROJECT_DIR$/reportsfull/log_advanced_80.log" />
+        <option value="$PROJECT_DIR$/reportsfull/log_advanced_150.log" />
+        <option value="$PROJECT_DIR$/reportsfull/log_advanced_700.log" />
+        <option value="$PROJECT_DIR$/reportsfull/log_base_150.log" />
+        <option value="$PROJECT_DIR$/reportsfull/log_base_700.log" />
+        <option value="$PROJECT_DIR$/reportsfull/log_based_80.log" />
+        <option value="$PROJECT_DIR$/reportsfull/b1.csv" />
+        <option value="$PROJECT_DIR$/run_test_advanced_80.sh" />
+        <option value="$PROJECT_DIR$/run_test_advanced_700.sh" />
+        <option value="$PROJECT_DIR$/run_test_base.sh" />
+        <option value="$PROJECT_DIR$/run_test_base_80.sh" />
+        <option value="$PROJECT_DIR$/run_test_base_700.sh" />
+        <option value="$PROJECT_DIR$/reportsfull/game_result.csv" />
+        <option value="$PROJECT_DIR$/reportsfull/adv_MINIMAX_r100_t150.csv" />
+        <option value="$PROJECT_DIR$/run_tes.sh" />
+        <option value="$PROJECT_DIR$/my_custom_player.py" />
+        <option value="$PROJECT_DIR$/run_test_all.sh" />
+        <option value="$PROJECT_DIR$/run_test_advanced.sh" />
+        <option value="$PROJECT_DIR$/run_test_6.sh" />
+        <option value="$PROJECT_DIR$/test_all.sh" />
+        <option value="$PROJECT_DIR$/log_advanced_d_3.log" />
+        <option value="$PROJECT_DIR$/log_advanced_d_6.log" />
+        <option value="$PROJECT_DIR$/log_advanced_d_9.log" />
+        <option value="$PROJECT_DIR$/log_advanced_d_12.log" />
+        <option value="$PROJECT_DIR$/log_advanced_d_15.log" />
+        <option value="$PROJECT_DIR$/reportsD/report_depth.csv" />
+        <option value="$PROJECT_DIR$/reportsD/depth_game_result.csv" />
+        <option value="$PROJECT_DIR$/test.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1391" />
+    <option name="height" value="1199" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3_Adversarial Search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3_Adversarial Search" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../bck/fp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/a1" />
+      <recent name="$PROJECT_DIR$/raaaa" />
+      <recent name="$PROJECT_DIR$/raaaa/reportsfull" />
+      <recent name="$PROJECT_DIR$/reports" />
+      <recent name="$PROJECT_DIR$/reportsa6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/reportsD" />
+      <recent name="$PROJECT_DIR$/reportsfull" />
+      <recent name="$PROJECT_DIR$/a1" />
+      <recent name="$PROJECT_DIR$/zz" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unittests in test_my_custom_player.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="3_Adversarial Search" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_my_custom_player.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_my_custom_player.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af4fda85-89ba-4ca2-badf-7978311fe040" name="Default" comment="" />
+      <created>1536901958090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536901958090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 15h 53m 37s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 15h 54m 25s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 15h 55m 26s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 15h 56m 22s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 15h 56m 48s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 15h 58m 05s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 15h 58m 21s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 16h 01m 04s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.21 at 16h 17m 38s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_my_custom_player_py - 2018.09.22 at 11h 45m 31s.xml">
+      <configuration name="Unittests in test_my_custom_player.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="2493" height="1415" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2970985" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.32979158" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5002043" side_tool="true" weight="0.32962668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34471804" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32962668" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49979568" visible="true" weight="0.32962668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39952344" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962668" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34471804" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2946465" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="R Graphics" order="4" weight="0.32979158" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962668" />
+      <window_info anchor="right" id="R Packages" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39952344" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49979568" visible="true" weight="0.32962668" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002043" side_tool="true" weight="0.32962668" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32962668" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/isolation/isolation.py</url>
+          <line>231</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_match.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_match.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_match.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_match.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_match.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sample_players.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sample_players.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sample_players.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sample_players.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sample_players.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sample_players.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sample_players.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_my_custom_player.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_my_custom_player.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_my_custom_player.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_my_custom_player.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tests/test_my_custom_player.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/fp/_do/as1/isolation/isolation.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_match.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="46" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Action</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.board  % 2 ** player_location</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.board  &amp; 2 ** player_location</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.board  / 2 ** player_location</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.board  %  2 ** player_location</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.board \\   2 ** player_location</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.board</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.board &amp;   2 ** player_location</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.board &amp; (1 &lt;&lt; player_location)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/zz/a8.py" />
+    <entry file="file://$PROJECT_DIR$/reportsfull/log_advanced_150.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/log_advanced_700.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/log_base_150.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/log_base_700.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/log_based_80.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/adv_r100_t75/adv_GREEDY_r100_t75.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="178" column="77" lean-forward="true" selection-start-line="178" selection-start-column="66" selection-end-line="178" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz/as8.py" />
+    <entry file="file://$PROJECT_DIR$/fp/do/ap1/matches.log" />
+    <entry file="file://$PROJECT_DIR$/fp/do/ap1/sample_players.py" />
+    <entry file="file://$PROJECT_DIR$/run_test_base_700.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_base_80.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_base.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_advanced_700.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_advanced_80.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fp/_done/ai14/3_Adversarial Search/my_custom_player.py" />
+    <entry file="file://$PROJECT_DIR$/fp/_done/ai13/3. Build a Game Playing Agent/my_custom_player.py" />
+    <entry file="file://$PROJECT_DIR$/fp/do/ap1/openingbook.py" />
+    <entry file="file://$PROJECT_DIR$/fp/do/ap1/Untitled.ipynb" />
+    <entry file="file://$PROJECT_DIR$/reportsfull/log_advanced_80.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/adv_r100_t150/adv_MINIMAX_r100_t150.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/adv_r100_t150/adv_GREEDY_r100_t150.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fp/_do/as7/my_custom_player.py" />
+    <entry file="file://$PROJECT_DIR$/my_custom_player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_tes.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_all.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_advanced.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_10.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_6.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raaaa/reportsD/d_adv_r10_t150_3/adv_GREEDY_r10_t150_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/raaaa/reportsD/d_adv_r10_t150_3/adv_MINIMAX_r10_t150_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_all.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fp/_done/ai2/3_Adversarial Search/my_custom_player.py" />
+    <entry file="file://$PROJECT_DIR$/fp/_done/ai4/Projects/3_Adversarial Search/my_custom_player.py" />
+    <entry file="file://$PROJECT_DIR$/reportsD/d_adv_r10_t150_3/adv_GREEDY_r10_t150_3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_advanced_d_3.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" lean-forward="true" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_advanced_d_6.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_advanced_d_9.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_advanced_d_15.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_advanced_d_12.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/b1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/adv_MINIMAX_r100_t150.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsfull/game_result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="6" selection-start-line="1" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reportsD/depth_game_result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fp/_done/ai14/3_Adversarial Search/run_match.py" />
+    <entry file="file://$PROJECT_DIR$/a1/report3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.udacity-pa/projects.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

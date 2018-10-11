@@ -1,0 +1,6 @@
+python run_match.py  --opponent RANDOM -r 5 -l advanced_r5_t/advanced_RANDOM_r5_t.txt -t  
+
+python run_match.py  --opponent RANDOM -r 5 -l advanced_r5_t/advanced_RANDOM_r5_t.txt -t  
+
+python run_match.py  --opponent RANDOM -r 5 -l advanced_r5_t/advanced_RANDOM_r5_t.txt -t  
+

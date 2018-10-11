@@ -1,0 +1,18 @@
+python run_match.py --opponent MINIMAX -r 10 -l reportsD/d_adv_r10_t150_12/adv_MINIMAX_r10_t150_12.txt -t 150 
+
+Running 20 games:
++++-++-+-+++++++-++--+
+Your agent won 75.0% of matches against Minimax Agent
+
+python run_match.py --opponent GREEDY -r 10 -l reportsD/d_adv_r10_t150_12/adv_GREEDY_r10_t150_12.txt -t 150 
+
+Running 20 games:
++++++++++++++++++++++
+Your agent won 100.0% of matches against Greedy Agent
+
+python run_match.py --opponent RANDOM -r 10 -l reportsD/d_adv_r10_t150_12/adv_RANDOM_r10_t150_12.txt -t 150 
+
+Running 20 games:
++++++++++++++++++++++
+Your agent won 100.0% of matches against Random Agent
+

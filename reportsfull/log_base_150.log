@@ -1,0 +1,37 @@
+base_RANDOM_r100_t150  92.5
+base_GREEDY_r100_t150 35.0
+base_MINIMAX_r100_t150 48.5
+base_SELF_r100_t150 54.0
+
+
+
+
+
+
+
+
+
+python run_match_base.py --opponent RANDOM -r 100 -l reports/base_r100_t150/base_RANDOM_r100_t150.txt -t 150
+
+Running 200 games:
+++-++++++++++++++-+++++++++++++++++++++++++++++++++++++++-+-+++++++++-++++++++++++++++++++++--+++++++-+++++++++++++-++++++++++++++++++++-++++++-+++-+++++++++++-+++++++-+-++-+++++++++++++++++++++++++++++
+Your agent won 92.5% of matches against Random Agent
+
+python run_match_base.py --opponent GREEDY -r 100 -l reports/base_r100_t150/base_GREEDY_r100_t150.txt -t 150 
+
+Running 200 games:
+---+-+-+-+-+-+---+-+-+-+-+-+-+-+-+-+---+-+------+-+---++-+-+---+-+-+-++-+---+-++-------+-----------+-+-+-+-+---+-+-+------+---+-+-+-+-+-+-----+-+-+-+-+--+-+-+-+-+-+-----+---+-------+-+--------+-+-+-+-+-+-+-+-+
+Your agent won 35.0% of matches against Greedy Agent
+
+python run_match_base.py --opponent MINIMAX -r 100 -l reports/base_r100_t150/base_MINIMAX_r100_t150.txt -t 150 
+
+Running 200 games:
++-+--+++-+-+++--+-+----++++++-+---++-------+-++--+++-++++-+-++++----+-+-+-+-+-+++--+-+-+-++----+--+-+++---+-+---+++++-+--+--+---+--+--+++--++----++-----+-+--++++++---+++-++---+-+-+--++++-++-+-----+++------+--
+Your agent won 48.5% of matches against Minimax Agent
+
+python run_match_base.py --opponent SELF -r 100 -l reports/base_r100_t150/base_SELF_r100_t150.txt -t 150 
+
+Running 200 games:
+-----+++++++-++--+-+----++-+-+-++++-++-----++---++-+++-++++----++---+---+-++---++-+++-++-+--+++-+++--+--+++-+++-+---++++--+-++-+-+-+----+-++-++++++----+-++-++-++++++-++++-++++++--++++----+----+----++++-+-+--
+Your agent won 54.0% of matches against CustomBase TestAgent
+
